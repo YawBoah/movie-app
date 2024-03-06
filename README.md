@@ -2,7 +2,7 @@
 
 Welcome to MovieField, your go-to app for discovering and exploring movies! 🍿
 
-![MovieField Logo](https://example.com/moviefield-logo.png)
+![image](https://github.com/YawBoah/movie-app/assets/126890146/598f4630-cddc-4ea6-9c81-0a9f43d8aca9)
 
 ## Introduction
 
