@@ -6,7 +6,7 @@ function Footer() {
   return (
     <footer>
       <p>
-        🎲 MASTER.ASD.Yob 🎲 <br />  Copyright © {year}
+        🎲 MASTER.Yob 🎲 <br />Copyright © {year}
       </p>
     </footer>
   );
