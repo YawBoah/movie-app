@@ -5,7 +5,9 @@ const year = new Date().getFullYear();
 function Footer() {
   return (
     <footer>
-      <p>Copyright {year}</p>
+      <p>
+        🎲 MASTER.ASD.Yob 🎲 <br />  Copyright © {year}
+      </p>
     </footer>
   );
 }
