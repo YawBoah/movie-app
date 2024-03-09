@@ -6,7 +6,7 @@ Welcome to MovieField, your go-to app for discovering and exploring movies! 🍿
 
 ## Introduction
 
-MovieField is a delightful movie search application built with React. It allows you to search for movies by title and browse through a wide range of movie options. With its intuitive interface and beautiful design, MovieField makes discovering new movies an enjoyable experience. 🌟
+MovieField is a delightful movie search application built with React. It allows you to search for movies by title and browse through a wide range of movie options. With its intuitive interface and beautiful design, MovieField makes discovering new movies an enjoyable experience.🌟
 
 ## Features
 
