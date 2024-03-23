@@ -23,7 +23,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    searchMovies("Moses");
+    searchMovies("Almost Christmas");
   }, []);
 
   return (
